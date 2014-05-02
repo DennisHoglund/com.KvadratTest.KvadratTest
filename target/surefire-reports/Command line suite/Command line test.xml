@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="Trollet" name="com.KvadratTest.KvadratTest.NewTest" tests="2" failures="0" timestamp="1 May 2014 23:05:18 GMT" time="45.103" errors="0">
+  <testcase name="LoginValidUser" time="45.068" classname="com.KvadratTest.KvadratTest.NewTest"/>
+  <testcase name="f" time="0.001" classname="com.KvadratTest.KvadratTest.NewTest"/>
+</testsuite>
